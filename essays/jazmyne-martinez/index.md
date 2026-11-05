@@ -7,7 +7,7 @@
 layout: essay
 
 # Title of your project
-title: Jazmyne's Family Migration Story
+title: "Jazmyne's Family Migration Story"
 
 # Your name and course (shown under the title)
 student: Jazmyne Martinez
